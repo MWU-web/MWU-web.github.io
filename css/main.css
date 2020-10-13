@@ -2771,9 +2771,19 @@ body.mobile-nav-active #mobile-nav-toggle {
     -o-transform: scale(1.05);
     transform: scale(1.05); }
 
+.logo img {
+  height:150px;
+  width: 150px; 
+}
+
 /* End Latest Blog Area css
 ============================================================================================ */
 /*================= latest_blog_area css =============*/
+
+.item img{
+  height: 200px;
+  width: 200px;
+}
 .single-recent-blog-post {
   margin-bottom: 30px; }
   .single-recent-blog-post .thumb {
